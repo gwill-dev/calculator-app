@@ -10,7 +10,8 @@ function clearDisplay() {
 
 function calculate() {
   try {
-    display.value = eval(display.value);
+    let result = Function('"use strict"; return (' + display.value + ')')();
+    display.value = result;
   } catch {
     display.value = "Error";
   }
