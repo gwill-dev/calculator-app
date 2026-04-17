@@ -1,16 +1,19 @@
 # 🧮 Calculator App
 
-A simple calculator built using HTML, CSS, and JavaScript.
+A responsive calculator built using HTML, CSS, and JavaScript.
 
-## Features
-- Basic arithmetic operations
-- Clear display
-- User-friendly interface
+## 🚀 Features
+- Perform basic arithmetic operations
+- Interactive UI
+- Error handling for invalid expressions
 
-## Technologies
+## 🛠️ Technologies
 - HTML
 - CSS
 - JavaScript
 
-## Author
+## 🌐 Live Demo
+(Add your GitHub Pages link here)
+
+## 📌 Author
 Amadi Uchechukwu Godswill
